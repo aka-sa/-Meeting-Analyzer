@@ -10,9 +10,3 @@ An AI-powered tool that transcribes meetings, summarizes key discussions, identi
 - Action item & keyword detection
 - Exportable reports
 
-## 🚀 Setup
-
-```bash
-git clone https://github.com/yourusername/meeting-analyzer.git
-cd meeting-analyzer
-pip install -r requirements.txt
