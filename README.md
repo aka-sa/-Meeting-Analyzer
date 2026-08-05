@@ -1,4 +1,4 @@
-# 📚 DDBMS RAG Assistant
+# 📚 Meeting Analyzer: Scalable Audio Intelligence System
 
 An AI-powered Retrieval-Augmented Generation (RAG) assistant for answering questions from Distributed Database Management System (DDBMS) PDFs and images.
 
